@@ -18,7 +18,7 @@ The website includes a live visitor counter powered by AWS Lambda, API Gateway, 
 
 ## Architecture
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](frontend/images/architecture.png)
 
 ### Architecture Flow
 
